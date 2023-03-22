@@ -12,5 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
+Não estou traba
+Estou no SENAI aprendendo progranção 
+Não estou procurando ajuda
+Não me pergunte nada
+Procure-me em locais onde estou
+ele/dele.
+Existo
