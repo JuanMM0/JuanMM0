@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-Não estou traba
-Estou no SENAI aprendendo progranção 
+Não estou trabalhando
+Estou no SENAI aprendendo programação 
 Não estou procurando ajuda
 Não me pergunte nada
 Procure-me em locais onde estou
-ele/dele.
+ele/dele
 Existo
