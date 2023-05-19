@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ## Painel
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)username=JuanMM0&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanMM0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
+<div> <a href="https://github.com/JuanMM0"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMM0&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanMM0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </div>
